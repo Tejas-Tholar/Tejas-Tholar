@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tejas Tholar
 - 👀 I’m interested in ...CyberSecurity
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...C,Python
 - 💞️ I’m looking to collaborate on ...--
 - 📫 How to reach me ...email
 - 😄 Pronouns: ...He/Him
