@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-breach.svg",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e6e6e6",
+    "strongColor": "#ff2a3d",
+    "weakColor": "#6b6b6b",
+    "radarColor": "#ff2a3d",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a1a1a",
+      "#5c0a12",
+      "#9e0f1f",
+      "#d6162b",
+      "#ff3b4f"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-breach-static.svg",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e6e6e6",
+    "strongColor": "#ff2a3d",
+    "weakColor": "#6b6b6b",
+    "radarColor": "#ff2a3d",
+    "growingAnimation": false,
+    "contribColors": [
+      "#1a1a1a",
+      "#5c0a12",
+      "#9e0f1f",
+      "#d6162b",
+      "#ff3b4f"
+    ]
+  }
+]

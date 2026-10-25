@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Break it to understand it. Then defend it.">
+<rect width="1200" height="120" rx="14" fill="#070707"/>
+<path d="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 V120 H0Z" fill="#ff2a3d" fill-opacity="0.18"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 V120 H0Z;M0 70 Q150 100 300 70 T600 70 T900 70 T1200 70 V120 H0Z;M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 V120 H0Z"/></path>
+<path d="M0 85 Q150 60 300 85 T600 85 T900 85 T1200 85 V120 H0Z" fill="#ff2a3d" fill-opacity="0.35"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 85 Q150 60 300 85 T600 85 T900 85 T1200 85 V120 H0Z;M0 85 Q150 110 300 85 T600 85 T900 85 T1200 85 V120 H0Z;M0 85 Q150 60 300 85 T600 85 T900 85 T1200 85 V120 H0Z"/></path>
+<text x="600" y="48" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#e6e6e6">Break it to understand it. <tspan fill="#ff2a3d">Then defend it.</tspan></text>
+<rect x="1" y="1" width="1198" height="118" rx="14" fill="none" stroke="#ff2a3d" stroke-opacity="0.35"/>
+</svg>
